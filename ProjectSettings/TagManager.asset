@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KillPlane
+  - Door
+  - CPU_To_MB
+  - MB_To_VGA
+  - Vga_To_Ram
+  - Hard_To_PW
+  - PW_To_case
+  - Case_to_COM9
+  - COM9_to_10
+  - COM1_to_CPU
+  - item
+  - no
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Black_Object
+    uniqueID: 4015260013
+    locked: 0
+  - name: Object
+    uniqueID: 3511630935
+    locked: 0

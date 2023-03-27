@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu_Start.unity
+    guid: 91d55b5ce9b833f419c5c8e185a9b070
+  - enabled: 1
+    path: Assets/Scenes/1_First_scenes.unity
+    guid: bbe9619f102bcc14e883f345049d54f1
+  - enabled: 1
+    path: Assets/Scenes/2_CPU.unity
+    guid: 5656ffd450328154d9b1d5fbea7edb6f
+  - enabled: 1
+    path: Assets/Scenes/3.1_board.unity
+    guid: 7807770149a0a284c8ca2559a911d50f
+  - enabled: 1
+    path: Assets/Scenes/3.2_board.unity
+    guid: 40970dfab83b54a48aec2b3a40ea5c7c
+  - enabled: 1
+    path: Assets/Scenes/3.3_board.unity
+    guid: 62b044c1acdfcd44f91169240b23741d
+  - enabled: 1
+    path: Assets/Scenes/3.4_board.unity
+    guid: 9bfc4a22cb1fa414b87d4ace7839518f
+  - enabled: 1
+    path: Assets/Scenes/4.1_VGA.unity
+    guid: 9031e55856c690144b90b7ef843d30ac
+  - enabled: 1
+    path: Assets/Scenes/4.2_VGA.unity
+    guid: e02862308e08bf9489de85465006435f
+  - enabled: 1
+    path: Assets/Scenes/4.3_VGA.unity
+    guid: 3f8ba472a4b864e4aac820d74b4205b5
+  - enabled: 1
+    path: Assets/Scenes/4.4_VGA.unity
+    guid: dd1bafd585f0d384f9a9ccc1febaeccb
+  - enabled: 1
+    path: Assets/Scenes/5.1_Ram.unity
+    guid: dcafa15848526c6459beee7f110e1c1e
+  - enabled: 1
+    path: Assets/Scenes/5.2_Ram.unity
+    guid: f5c0766374589b8419aa845847558856
+  - enabled: 1
+    path: Assets/Scenes/5.3_Ram.unity
+    guid: 9132075b2e8665a40a44a1bd71b55258
+  - enabled: 1
+    path: Assets/Scenes/5.4_Ram.unity
+    guid: c15e147ec2455124c8ccaab7e6e7ee2a
+  - enabled: 1
+    path: Assets/Scenes/6.1_Harddisk.unity
+    guid: 30a72ecd00ba7f342a3b1d9f9989738e
+  - enabled: 1
+    path: Assets/Scenes/6.2_Harddisk.unity
+    guid: a8ea3b6235f6cfb46943f3b6ca5e3da2
+  - enabled: 1
+    path: Assets/Scenes/6.3_Harddisk.unity
+    guid: df8f9d771f4c6f44f908e83363619bea
+  - enabled: 1
+    path: Assets/Scenes/6.4_Harddisk.unity
+    guid: 5b5394d88cf0a1e4bab0122106bde2a1
+  - enabled: 1
+    path: Assets/Scenes/7.1_Power.unity
+    guid: 5d8ee039e0057084c89af26d0d59b1db
+  - enabled: 1
+    path: Assets/Scenes/7.2_Power.unity
+    guid: 05445c1e06de22d45b34383eaf1db423
+  - enabled: 1
+    path: Assets/Scenes/7.3_Power.unity
+    guid: db233a64a65d54146bb8c7c4f86bb18b
+  - enabled: 1
+    path: Assets/Scenes/7.4_Power.unity
+    guid: 7af552f7b8540b54ba5fcecb249ecead
+  - enabled: 1
+    path: Assets/Scenes/8.1_case.unity
+    guid: 54ad6aafcf408b04b9f8b3c380c667c7
+  - enabled: 1
+    path: Assets/Scenes/8.2_case.unity
+    guid: 6577c681eb4cd7d4fa6432f2c4fb2055
+  - enabled: 1
+    path: Assets/Scenes/8.3_case.unity
+    guid: 4c5d54ffde6e5b743906038471d3c906
+  - enabled: 1
+    path: Assets/Scenes/8.4_case.unity
+    guid: fe3af0c196e081a4e8de26773b4b53b3
+  - enabled: 1
+    path: Assets/Scenes/9.1_Computer.unity
+    guid: 5791bd973d0931747983f1d885e5adb7
+  - enabled: 1
+    path: Assets/Scenes/9.2_Computer.unity
+    guid: 0e1bf23f4ccf363418f3618e2e67e3ca
+  - enabled: 1
+    path: Assets/Scenes/9.3_Computer.unity
+    guid: 9570e29b6f5a3b342b29c2e0d956072a
+  - enabled: 1
+    path: Assets/Scenes/9.4_Computer.unity
+    guid: b2e7a017619d8ca438a81af66b5920d2
+  - enabled: 1
+    path: Assets/Scenes/10.unity
+    guid: f5e8ca4daa1e41348b1b289a7ce4b91d
+  m_configObjects: {}
